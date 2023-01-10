@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Manish893/Homeone.git/static/css/main.f5690ae0.css",
+    "main.js": "/Manish893/Homeone.git/static/js/main.0d5e47e9.js",
+    "static/js/787.106db3e6.chunk.js": "/Manish893/Homeone.git/static/js/787.106db3e6.chunk.js",
+    "static/media/logo.svg": "/Manish893/Homeone.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Manish893/Homeone.git/index.html",
+    "main.f5690ae0.css.map": "/Manish893/Homeone.git/static/css/main.f5690ae0.css.map",
+    "main.0d5e47e9.js.map": "/Manish893/Homeone.git/static/js/main.0d5e47e9.js.map",
+    "787.106db3e6.chunk.js.map": "/Manish893/Homeone.git/static/js/787.106db3e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5690ae0.css",
+    "static/js/main.0d5e47e9.js"
+  ]
+}
